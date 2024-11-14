@@ -5,5 +5,6 @@ null,
 {"id":3,"expanded":false,"name":"Agni Loka","order":3,"parentId":1,"scrollX":1584,"scrollY":816},
 {"id":4,"expanded":false,"name":"Danau Nirmala","order":6,"parentId":1,"scrollX":1584,"scrollY":1250},
 {"id":5,"expanded":false,"name":"Candi Tirhalaya","order":5,"parentId":1,"scrollX":1584,"scrollY":1016},
-{"id":6,"expanded":true,"name":"Puncak kala Es","order":4,"parentId":1,"scrollX":1152,"scrollY":1250}
+{"id":6,"expanded":true,"name":"Puncak kala Es","order":4,"parentId":1,"scrollX":1152,"scrollY":1250},
+{"id":7,"expanded":false,"name":"Mountain Village","order":7,"parentId":0,"scrollX":1390.2857142857142,"scrollY":870.8571428571428}
 ]
