@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP UTAMA","order":1,"parentId":0,"scrollX":2218,"scrollY":1061},
-{"id":2,"expanded":false,"name":"Hutan Rimba Sembara","order":2,"parentId":1,"scrollX":2202,"scrollY":921},
+{"id":1,"expanded":true,"name":"MAP UTAMA","order":1,"parentId":0,"scrollX":2449.714285714286,"scrollY":1302.8571428571427},
+{"id":2,"expanded":false,"name":"Hutan Rimba Sembara","order":2,"parentId":1,"scrollX":1847.9999999999998,"scrollY":857.1428571428571},
 {"id":3,"expanded":false,"name":"Agni Loka","order":3,"parentId":1,"scrollX":1584,"scrollY":816},
 {"id":4,"expanded":false,"name":"Danau Nirmala","order":6,"parentId":1,"scrollX":1584,"scrollY":1250},
 {"id":5,"expanded":false,"name":"Candi Tirhalaya","order":5,"parentId":1,"scrollX":1584,"scrollY":1016},
